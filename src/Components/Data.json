@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Pacofic rim",
+        "tel":"0586051378",
+        "Permission":1
+    },
+
+    {
+        "id":2,
+        "name":"cuong",
+        "tel":"0586051378",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Quoc",
+        "tel":"0586051378",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "name":"Pacofic rim",
+        "tel":"0586051378",
+        "Permission":1
+    },
+    {
+        "id":5,
+        "name":"Pacofic rim",
+        "tel":"0586051378",
+        "Permission":1
+    }
+]
